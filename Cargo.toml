@@ -1,0 +1,8 @@
+[package]
+name = "converter"
+version = "0.1.0"
+authors = ["Vitalii Hurianov"]
+edition = "2018"
+
+[dependencies]
+dont_disappear = "3.0.0"
